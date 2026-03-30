@@ -8,7 +8,7 @@ async function startServer() {
 
   // API routes FIRST
   app.get("/api/hello", (req, res) => {
-    res.json({ message: "Hello World!" });
+    res.json({ message: "Hello World" });
   });
 
   // Vite middleware for development
