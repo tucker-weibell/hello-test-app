@@ -1,0 +1,5 @@
+{
+  "name": "Hello World API App",
+  "description": "A simple full-stack application with a Hello World JSON endpoint.",
+  "requestFramePermissions": []
+}
